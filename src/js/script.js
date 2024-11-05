@@ -128,7 +128,7 @@ btnNo.addEventListener("mouseover", () => {
     }).showToast();
   } else if (contador == 55) {
     Toastify({
-      text: "que dedicaion por llegar hasta aqui no?",
+      text: "que dedicacion por llegar hasta aqui no?",
       duration: 2000,
       className: "warning",
       style: {
